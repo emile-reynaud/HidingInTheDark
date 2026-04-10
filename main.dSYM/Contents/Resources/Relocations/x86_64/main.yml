@@ -1,0 +1,9 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/emilereynaud/Documents/dev/cpp/HidingInTheDark/main'
+relocations:
+  - { offset: 0x248C, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xEED1, symBinAddr: 0x100002000, symSize: 0x0 }
+  - { offset: 0x2599, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_main.cpp, symObjAddr: 0x79, symBinAddr: 0x10000076C, symSize: 0xB }
+  - { offset: 0x25B0, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x43, symBinAddr: 0x100000736, symSize: 0x36 }
+  - { offset: 0x25CE, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000700, symSize: 0x36 }
+...
